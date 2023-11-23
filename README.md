@@ -10,4 +10,4 @@ cp perltidy.lua $HOME/.local/share/lite-xl/plugins/perltidy.lua
 
 ## How to use
 
-Press `ctrl-i` to apply your perltidy settings to the current buffer.
+Press `ctrl-i` to apply perltidy with your settings to the current buffer.
